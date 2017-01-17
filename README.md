@@ -1,2 +1,2 @@
 # Ellipse-drawing on processing
-interesting shapes
+interesting shapes just move the mouse {:-)-/-<
